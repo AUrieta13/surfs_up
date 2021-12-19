@@ -7,8 +7,8 @@ The purpose of this chanllenge was to help W.Avy get an in-depth look at tempera
 There are three key differences when comparing June and December weather:
 - There were more counts of temperature in the month of December compared to the month of June. December had a total count of 19550 and June had a total count of 1700.
 - The average temperature in the month of June is 74.94 degrees compared to December having an average temperature of 73.09 degrees. This means there is about a 1.85 degree temperature change average.
-- In the month of June the minimum temperature was 64.00 degrees where as in Decemeber the minimum temperture was 53.00 degrees. There is an 11 degree difference in the minimum temperature.
-*refer to tables below*
+- In the month of June the minimum temperature was 64.00 degrees where as in Decemeber the minimum temperture was 53.00 degrees. There is an 11 degree difference in the minimum temperature. *refer to tables below*
+
 ![image](https://user-images.githubusercontent.com/90146132/146692133-7defa6e2-c7df-4763-97be-4c9c6f554773.png)
 ![image](https://user-images.githubusercontent.com/90146132/146692138-695ab382-86cf-49b9-86d7-51376fa01998.png)
 

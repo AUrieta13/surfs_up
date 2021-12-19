@@ -1,6 +1,6 @@
 # surfs_up
 
-#Challenge Overview:
+# Challenge Overview:
 The purpose of this chanllenge was to help W.Avy get an in-depth look at temperature data, specifically June and December. By performing a query on temperature data on these month, it will help W. Avy determine if his surf and ice cream shop business will be sustainable for the whole year.
 
 ## Results:
